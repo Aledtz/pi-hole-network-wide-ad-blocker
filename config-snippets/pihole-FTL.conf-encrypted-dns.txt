@@ -1,0 +1,5 @@
+# Blocks encrypted DNS (DoH/DoT) so devices can't bypass Pi-hole
+block-encrypted-dns=true
+
+# Optional: Force DHCP advertisement of Pi-hole even on locked routers
+# dhcp-option=6,192.168.1.224
